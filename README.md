@@ -1,2 +1,2 @@
-# helloworld-java
-A simple hello world script written in Java.
+# Hello World in Java
+A simple program showing a Hello World window written in Java.
